@@ -1,2 +1,4 @@
-## Flappy Bird Game
-# Written in Java for the Penn CIS-120 course final project
+# Flappy Bird Game
+##  Languages: Java
+### Penn CIS-120 course final project
+Set-up:
